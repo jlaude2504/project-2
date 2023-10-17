@@ -1,6 +1,8 @@
 #main-navbar {
     background-color: blue;
     overflow: hidden;
+    font-weight: bold;
+    font-size: 35px;
   }
   
 #navbar-container {
@@ -60,4 +62,15 @@ img{
   
 #akuma {
   margin-left: 50%;
+}
+
+#show{
+  margin-top: 2%;
+  height: 250px;
+  width: auto;
+}
+
+#cast{
+  height: 200px;
+  width: auto;
 }
