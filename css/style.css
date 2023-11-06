@@ -1,16 +1,16 @@
 #main-navbar {
-    background-color: blue;
-    overflow: hidden;
-    font-weight: bold;
-    font-size: 35px;
-  }
-  
+  background-color: blue;
+  overflow: hidden;
+  font-weight: bold;
+  font-size: 35px;
+}
+
 #navbar-container {
   float: left;
   width: 100%;
   position: relative;
-  }
-  
+}
+
 #main-navbar ul {
   list-style-type: none;
   margin: 0;
@@ -18,63 +18,63 @@
   position: relative;
   left: 50%;
   float: left;
-  }
-  
+}
+
 #main-navbar ul li {
   float: left;
   position: relative;
   right: 50%;
   display: block;
-  }
-  
+}
+
 #main-navbar ul li a {
   display: block;
   padding: 10px 20px;
   color: #fff;
   text-decoration: none;
-  }
-  
+}
+
 #main-navbar ul li a:hover {
   background-color: #000;
-  }
-  
-body{
+}
+
+body {
   background-color: #000;
   color: #fff;
-  }
+}
 
-#resume-title{
-  font-family: 'Courier New', Courier, monospace;
+#resume-title {
+  font-family: "Courier New", Courier, monospace;
   font-style: italic;
 }
 
-h2{
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
 }
 
-p{
-  font-family: Georgia, Times, 'Times New Roman', serif;
+p {
+  font-family: Georgia, Times, "Times New Roman", serif;
 }
 
-img{
+img {
   border: 5px solid #fff;
 }
-  
+
 #akuma {
   margin-left: 35%;
 }
 
-.games{
+.games {
   margin-top: 1%;
 }
 
-#show{
+#show {
   margin-top: 2%;
   height: 250px;
   width: auto;
 }
 
-.cast{
+.cast {
   height: 200px;
   width: auto;
 }
