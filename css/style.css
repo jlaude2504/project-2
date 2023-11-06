@@ -1,5 +1,5 @@
 #main-navbar {
-  background-color: blue;
+  background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);;
   overflow: hidden;
   font-weight: bold;
   font-size: 35px;
